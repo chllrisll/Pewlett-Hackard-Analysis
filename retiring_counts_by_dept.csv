@@ -1,0 +1,39 @@
+Retiring Counts,title,dept_name
+2589,Senior Staff,Customer Service
+1912,Staff,Customer Service
+415,Senior Engineer,Customer Service
+307,Engineer,Customer Service
+64,Technique Leader,Customer Service
+33,Assistant Engineer,Customer Service
+8589,Senior Engineer,Development
+6840,Engineer,Development
+1590,Technique Leader,Development
+902,Assistant Engineer,Development
+244,Senior Staff,Development
+203,Staff,Development
+2160,Senior Staff,Finance
+1599,Staff,Finance
+2197,Senior Staff,Human Resources
+1728,Staff,Human Resources
+2477,Senior Staff,Marketing
+1915,Staff,Marketing
+7589,Senior Engineer,Production
+5865,Engineer,Production
+1457,Technique Leader,Production
+772,Assistant Engineer,Production
+292,Senior Staff,Production
+197,Staff,Production
+2156,Senior Engineer,Quality Management
+1690,Engineer,Quality Management
+398,Technique Leader,Quality Management
+204,Assistant Engineer,Quality Management
+2138,Senior Staff,Research
+1576,Staff,Research
+523,Senior Engineer,Research
+359,Engineer,Research
+94,Technique Leader,Research
+47,Assistant Engineer,Research
+1,Manager,Research
+6579,Senior Staff,Sales
+4756,Staff,Sales
+1,Manager,Sales
